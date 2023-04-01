@@ -1,6 +1,6 @@
 <h1 align="center"> Oi, sou a Poliana Carneiro </h1>
 
-- 🖥️ estou em transição de aréa, ja trabalhei com Suporte, Analise, Gestão de Projetos e Administração de Banco de Dados, mas a procura da primeira vaga como Desenvolvedora.
+- 🖥️ atualmente trabalho como analista de sistemas e desenvolvedora web.
 
 - 🎓 cursando Analise e Desenvolvimento de Sistemas.
 
