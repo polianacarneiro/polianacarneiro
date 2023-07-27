@@ -8,7 +8,7 @@
 
 ##
 <img align="center" alt="grafico" height="60" width="60"
-       src=""/> GitHub Status
+       GitHub Status
        
 <div style="display: flex;" align="center">
      <img align="center" width="48%"
