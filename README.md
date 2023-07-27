@@ -1,10 +1,10 @@
 <h1 align="center"> Oi, sou a Poliana Carneiro </h1>
 
-- 🖥️ atualmente trabalho como analista de sistemas e desenvolvedora web.
+- 🖥️ atualmente trabalhando como Analista de sistemas e Desenvolvedora web.
 
-- 🎓 cursando Analise e Desenvolvimento de Sistemas.
+- 🎓 Formada em Analise e Desenvolvimento de Sistemas.
 
-- 🌱 estudando JavaScript/TypeScript.
+- 🌱 Estudando Python.
 
 ##
 <img align="center" alt="grafico" height="60" width="60"
