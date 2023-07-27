@@ -7,8 +7,7 @@
 - 🌱 Estudando Python.
 
 ##
-<img align="center" alt="grafico" height="60" width="60" 
-       src="https://img.icons8.com/color/48/user-female-skin-type-1-2.png" alt="user-female-skin-type-1-2"/> GitHub Status
+ GitHub Status
        
        
 <div style="display: flex;" align="center">
