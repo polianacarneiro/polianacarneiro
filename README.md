@@ -1,6 +1,6 @@
 <h1 align="center"> Oi, sou a Poliana Carneiro </h1>
 
-- 🖥️ atualmente trabalhando como Analista de sistemas e Desenvolvedora web.
+- 🖥️ atualmente trabalhando como Analista e Desenvolvedora web.
 
 - 🎓 Formada em Analise e Desenvolvimento de Sistemas.
 
