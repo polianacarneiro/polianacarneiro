@@ -13,7 +13,7 @@
 <div style="display: flex;" align="center">
      <img align="center" width="48%"
           style="margin: 20px; padding: 0 4px;"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=polianacarneiro&count_private=true&show_icons=true&theme=radical&hide_border=true" 
+          src="https://github-readme-streak-stats.herokuapp.com?user=polianacarneiro&theme=tokyonight&hide_total_contributions=true)](https://git.io/streak-stats" 
           alt="poliana" />
      <img align="center" width="48%"
           style="margin: 20px; padding: 0 4px;"
