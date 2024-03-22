@@ -17,7 +17,7 @@
           alt="poliana" />
      <img align="center" width="48%"
           style="margin: 20px; padding: 0 4px;"
-          src="https://github-readme-stats-sigma-five.vercel.app/api?username=polianacarneiro&show_icons=true&locale=en&count_private=true&show_icons=true&theme=radical&hide_border=true"
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=polianacarneiro&show_icons=true&locale=en&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
           alt="poliana" />
 </div>
 
@@ -25,7 +25,7 @@
 <div style="display: flex;" align="center">
      <img align="center" width="48%"
           style="margin: 20px; padding: 0 4px;"
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=polianacarneiro&show_icons=true&theme=radical&hide_border=true&layout=compact" 
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=polianacarneiro&show_icons=true&theme=tokyonightl&hide_border=true&layout=compact" 
           alt="languages" />
 </div>
           
