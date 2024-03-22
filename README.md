@@ -1,4 +1,4 @@
-<h1 align="center"> Oi, sou a Poliana Carneiro </h1>
+<h1 align="center"> Oi, sou a Poliana </h1>
 
 - 🖥️ atualmente trabalhando como Desenvolvedora web.
 
@@ -33,7 +33,6 @@
 <img align="right" alt="poli-gif" height="170" width="160"
        src="https://i.picasion.com/pic92/0cbbacf1ff6d8351c9212a89c4040a2a.gif" />
 
- ##
  ##
  
 <div style="display: inline_block"><br>
