@@ -1,6 +1,6 @@
 <h1 align="center"> Oi, sou a Poliana </h1>
 
-- 🖥️ atualmente trabalhando como Desenvolvedora web.
+- 🖥️ atualmente trabalhando como Desenvolvedora web e Analista de Sistemas.
 
 - 🎓 Formada em Analise e Desenvolvimento de Sistemas.
 
